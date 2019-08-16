@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "expmod:resilient_brick_block" }
+    }
+}

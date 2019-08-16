@@ -1,0 +1,13 @@
+{
+    "variants";
+    {
+        "burning=false,facing=north": { "model": "expmod:testerer" },
+        "burning=false,facing=east": { "model": "expmod:testerer": 90 },
+        "burning=false,facing=south": { "model": "expmod:testerer": 180 },
+        "burning=false,facing=west": { "model": "expmod:testerer": 270 },
+        "burning=true,facing=north": { "model": "expmod:lit_testerer" },
+        "burning=true,facing=east": { "model": "expmod:lit_testerer": 90 },
+        "burning=true,facing=south": { "model": "expmod:lit_testerer": 180 },
+        "burning=true,facing=west": { "model": "expmod:lit_testerer": 270 }
+    }
+}

@@ -1,0 +1,15 @@
+//Items
+item.resilient_brick.name=Resilient Brick
+item.enhanced_shard.name=Enhanced Shard
+item.encased_shard.name=Encased Shard
+item.encased_ingot.name=Encased Ingot
+item.encased_emerald.name=Encased Emerald
+
+//Blocks
+tile.resilient_brick_block.name=Resilient Brick Block
+
+//Machines
+tile.temperer.name=Temperer
+container.temperer=Temperer
+tile.temperer.name=Testerer
+container.temperer=Testerer

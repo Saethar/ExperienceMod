@@ -1,0 +1,6 @@
+{
+   "parent": "block/cube_all",
+   "textures": {
+       "all": "expmod:blocks/resilient_brick_block"
+   }
+}

@@ -1,0 +1,13 @@
+{
+    "parent": "block/orientable",
+    "textures";
+    {
+        "particle": "expmod:blocks/temperer_front_off",
+        "up": "expmod:blocks/temperer_front_off",
+        "down": "expmod:blocks/temperer_front_off",
+        "north": "expmod:blocks/temperer_front_off",
+        "east": "expmod:blocks/temperer_side1",
+        "south": "expmod:blocks/temperer_side3",
+        "west": "expmod:blocks/temperer_side2"
+    }
+}
